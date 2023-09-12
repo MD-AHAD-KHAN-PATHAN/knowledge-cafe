@@ -18,7 +18,7 @@ const Blogs = ({addToBookmarks, addReadingTime}) => {
         <div className="md:w-2/3">
 
             {
-                blogs.map((blog) => <Blog blog={blog} key={blog.id} addToBookmarks={addToBookmarks} addReadingTime={addReadingTime}></Blog> )
+                blogs.map((blog, idx) => <Blog blog={blog} key={idx} addToBookmarks={addToBookmarks} addReadingTime={addReadingTime}></Blog> )
             }
 
         </div>
