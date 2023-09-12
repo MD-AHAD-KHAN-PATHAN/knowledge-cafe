@@ -1,53 +1,53 @@
 [
     {
       "id": 12345,
-      "cover": "https://example.com/book1.jpg",
-      "title": "The Mystery of the Hidden Treasure",
+      "cover": "https://i.ibb.co/TPjLxz4/2.png",
+      "title": "Blockchain Protocol Upgrade Reshapes the Future of Decentralized Apps.",
       "author": "John Doe",
-      "author_img": "https://example.com/johndoe.jpg",
+      "author_img": "https://i.ibb.co/JzD5rdy/boy1.png",
       "post_date": "2023-09-12",
       "reading_time": 45,
-      "hashtags": ["mystery", "adventure", "fiction"]
+      "hashtags": ["#cripto", "#blockchain", "#security"]
     },
     {
       "id": 67890,
-      "cover": "https://example.com/book2.jpg",
-      "title": "A Journey Through Time",
+      "cover": "https://i.ibb.co/hfTyWdM/3.png",
+      "title": "AI-Powered Code Review Tool Helps Developers Catch Bugs More Efficiently.",
       "author": "Jane Smith",
-      "author_img": "https://example.com/janesmith.jpg",
+      "author_img": "https://i.ibb.co/1bD3bcW/boy2.jpg",
       "post_date": "2023-09-11",
       "reading_time": 60,
-      "hashtags": ["sciencefiction", "timetravel", "fantasy"]
+      "hashtags": ["#Ai", "#Iot", "#robotics"]
     },
     {
       "id": 54321,
-      "cover": "https://example.com/book3.jpg",
-      "title": "Cooking Adventures",
+      "cover": "https://i.ibb.co/W3gvfWZ/4.jpg",
+      "title": "Startup Unveils Revolutionary Quantum Computing Language for Breakthroughs in Programming.",
       "author": "Alice Johnson",
-      "author_img": "https://example.com/alicejohnson.jpg",
+      "author_img": "https://i.ibb.co/pJtGdrt/girl2.jpg",
       "post_date": "2023-09-10",
       "reading_time": 30,
-      "hashtags": ["cooking", "recipes", "food"]
+      "hashtags": ["#startup", "#programming", "#tech"]
     },
     {
       "id": 98765,
-      "cover": "https://example.com/book4.jpg",
-      "title": "The Art of Painting",
+      "cover": "https://i.ibb.co/9yChDDN/1.jpg",
+      "title": "New Python Framework Emerges, Promising Speedier Development and Efficiency Gains.",
       "author": "Robert Anderson",
-      "author_img": "https://example.com/robertanderson.jpg",
+      "author_img": "https://i.ibb.co/k2KGZz0/girl1.jpg",
       "post_date": "2023-09-09",
       "reading_time": 75,
-      "hashtags": ["art", "painting", "creativity"]
+      "hashtags": ["#javascript", "#python", "#developer"]
     },
     {
       "id": 13579,
-      "cover": "https://example.com/book5.jpg",
-      "title": "Exploring the Cosmos",
+      "cover": "https://i.ibb.co/TPjLxz4/2.png",
+      "title": "Tech Giants Collaborate on Open Source AI Toolkit for Developers.",
       "author": "Emily Davis",
-      "author_img": "https://example.com/emilydavis.jpg",
+      "author_img": "https://i.ibb.co/pJtGdrt/girl2.jpg",
       "post_date": "2023-09-08",
       "reading_time": 90,
-      "hashtags": ["space", "science", "astronomy"]
+      "hashtags": ["#space", "#science", "#astronomy"]
     }
   ]
   
