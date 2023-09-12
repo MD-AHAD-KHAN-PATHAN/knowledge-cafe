@@ -1,0 +1,53 @@
+[
+    {
+      "id": 12345,
+      "cover": "https://example.com/book1.jpg",
+      "title": "The Mystery of the Hidden Treasure",
+      "author": "John Doe",
+      "author_img": "https://example.com/johndoe.jpg",
+      "post_date": "2023-09-12",
+      "reading_time": 45,
+      "hashtags": ["mystery", "adventure", "fiction"]
+    },
+    {
+      "id": 67890,
+      "cover": "https://example.com/book2.jpg",
+      "title": "A Journey Through Time",
+      "author": "Jane Smith",
+      "author_img": "https://example.com/janesmith.jpg",
+      "post_date": "2023-09-11",
+      "reading_time": 60,
+      "hashtags": ["sciencefiction", "timetravel", "fantasy"]
+    },
+    {
+      "id": 54321,
+      "cover": "https://example.com/book3.jpg",
+      "title": "Cooking Adventures",
+      "author": "Alice Johnson",
+      "author_img": "https://example.com/alicejohnson.jpg",
+      "post_date": "2023-09-10",
+      "reading_time": 30,
+      "hashtags": ["cooking", "recipes", "food"]
+    },
+    {
+      "id": 98765,
+      "cover": "https://example.com/book4.jpg",
+      "title": "The Art of Painting",
+      "author": "Robert Anderson",
+      "author_img": "https://example.com/robertanderson.jpg",
+      "post_date": "2023-09-09",
+      "reading_time": 75,
+      "hashtags": ["art", "painting", "creativity"]
+    },
+    {
+      "id": 13579,
+      "cover": "https://example.com/book5.jpg",
+      "title": "Exploring the Cosmos",
+      "author": "Emily Davis",
+      "author_img": "https://example.com/emilydavis.jpg",
+      "post_date": "2023-09-08",
+      "reading_time": 90,
+      "hashtags": ["space", "science", "astronomy"]
+    }
+  ]
+  
